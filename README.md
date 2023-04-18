@@ -16,14 +16,14 @@ python client.py
 <div align="center">
     <img src="./All.png" alt="All" width="600" style="display:inline-block;">
 </div>
-
+<br>
 <div align="center">
     <img src="./Bytes.png" alt="Bytes" width="300" style="display:inline-block;">
     <img src="./MSE.png" alt="MSE" width="300" style="display:inline-block;">
 </div>
 
 <div align="center">
-    <p>Figure 1. Comparison of different compression ratio, Number of bytes transferred and MSE for each ratio.</p>
+    <p>Figure 1. Comparison of different compression ratios, Number of bytes transferred and MSE for each ratio.</p>
 </div>
 
 ## Send email
