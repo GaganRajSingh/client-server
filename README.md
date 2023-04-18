@@ -13,9 +13,9 @@ In terminal window 2, establish TCP/IP connection, compress and transmit image:
 python client.py
 ```
 
-<img src="./All.png" alt="Different compression ratios" width="300"/>
-<img src="./Bytes.png" alt="Number of bytes transferred for different compression ratios" width="150"/>
-<img src="./MSE.png" alt="Mean squared error for different compression ratios" width="150"/>
+<img src="./All.png" alt="Different compression ratios" width="600"/>
+<img src="./Bytes.png" alt="Number of bytes transferred for different compression ratios" width="300" style="float: left"/>
+<img src="./MSE.png" alt="Mean squared error for different compression ratios" width="300"/>
 
 ## Send email
 
