@@ -22,6 +22,10 @@ python client.py
     <img src="./MSE.png" alt="MSE" width="300" style="display:inline-block;">
 </div>
 
+<div align="center">
+    <p>Figure 1. Comparison of different compression ratio, Number of bytes transferred and MSE for each ratio.</p>
+</div>
+
 ## Send email
 
 To send a custom email:
